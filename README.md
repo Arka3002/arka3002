@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.jpg" alt="Mehboob Mohammad Arka Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Mehboob Mohammad Arka</h1>
 <h3 align="center">🚀 Aspiring AI Strategist & Full-Stack Developer</h3>
 
