@@ -117,10 +117,6 @@
 
 ### 📈 GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arka3002&show_icons=true&locale=en&layout=compact" alt="arka3002" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arka3002&show_icons=true&locale=en" alt="arka3002" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arka3002&" alt="arka3002" /></p>
 ---
 
