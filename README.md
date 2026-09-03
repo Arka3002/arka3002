@@ -7,17 +7,33 @@
 
 ---
 
-### 📌 About Me
+### 📌 About & Quick Contact
 
-- 🔬 **Medical AI & Computer Vision:** Researched, trained, and evaluated deep learning models (VGG16, ResNet50) for automated disease detection in X-ray imaging.
-- 🎓 **EdTech Leadership:** Co-founded **Decoders Academy**, mentoring the next generation in Python programming, robotics, and computational logic.
-- 🛠️ **Enterprise Systems:** Managing production IT infrastructure, payment gateway integrations, and data workflows in fast-paced environments.
-- 🔭 **Current Focus:** Deepening expertise in full-stack web development and preparing for advanced postgraduate studies in AI & ML.
-- 📫 **How to reach me:** [arka.jackson@gmail.com](mailto:arka.jackson@gmail.com)
+- 🔭 **Current Focus:** Learning Web Development & deepening AI expertise
+- 📬 **Reach Me:** [arka.jackson@gmail.com](mailto:arka.jackson@gmail.com)
 
 ---
 
-### 💻 Languages and Tools
+### 💻 Technical Toolbox
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Core** | Python, C/C++, Java, PHP, SQL, HTML5, CSS3, JavaScript, TypeScript |
+| **AI / Machine Learning** | Computer Vision (CNNs, VGG16, ResNet50), PyTorch, TensorFlow, OpenCV, Scikit-Learn, Pandas, Seaborn |
+| **Web & Frameworks** | Node.js, Express, React, Bootstrap, REST APIs, System Architecture & POS Integrations |
+| **DevOps, DB & Tools** | Git, GitHub, MySQL, Figma, VS Code, Linux, Postman |
+
+---
+
+### 📊 Featured Highlights & Impact
+
+* 🔬 **Medical AI & Computer Vision:** Researched, trained, and evaluated deep learning models (VGG16, ResNet50) for automated disease detection in X-ray imaging.
+* 🎓 **EdTech Leadership:** Co-founded **Decoders Academy**, mentoring the next generation in Python programming, robotics, and computational logic.
+* 🛠️ **Enterprise Systems:** Managing production IT infrastructure, payment gateway integrations, and data workflows in fast-paced retail and hospitality environments.
+
+---
+
+### 🛠️ Tech Stack Badges
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -78,6 +94,14 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
+
+---
+
+### 📌 Current Focus & Future Horizon
+
+- 🧠 **Deepening AI Expertise:** Pursuing advanced postgraduate research in Artificial Intelligence & Machine Learning.
+- ⚡ **Open Source & Projects:** Architecting computer vision models and full-stack API workflows.
+- 📬 **Let's Connect:** Open to discussions on AI projects, computer vision research, and technical collaborations.
 
 ---
 
