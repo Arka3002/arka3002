@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.jpg" alt="Mehboob Mohammad Arka Banner" width="100%">
 </p>
+
 <h1 align="center">Hi 👋, I'm Mehboob Mohammad Arka</h1>
 <h3 align="center">🚀 Aspiring AI Strategist & Full-Stack Developer</h3>
 
@@ -8,10 +9,27 @@
   <i>Driven by a passion for Artificial Intelligence, Machine Learning, and scalable digital infrastructure. I bridge the gap between academic AI research and real-world implementation—building intelligent, production-ready solutions with measurable impact.</i>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:arka.jackson@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://x.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
+
 ---
 
 ### 📌 About & Quick Contact
 
+- 🎓 **Education:** Graduated in Computer Science & Engineering from North South University (NSU)
+- 🔬 **Academic Focus:** Medical AI, Computer Vision & Disease Detection in X-ray Imaging
 - 🔭 **Current Focus:** Learning Web Development & deepening AI expertise
 - 📬 **Reach Me:** [arka.jackson@gmail.com](mailto:arka.jackson@gmail.com)
 
@@ -96,6 +114,19 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
+</p>
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
